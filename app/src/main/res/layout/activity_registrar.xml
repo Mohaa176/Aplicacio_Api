@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/imaa"
+    tools:context=".RegistrarActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:gravity="center"
+        android:text="FarMap"
+        android:textColor="#fff"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.08">
+
+    </TextView>
+
+    <EditText
+        android:id="@+id/et_mail"
+        android:layout_width="391dp"
+        android:layout_height="wrap_content"
+        android:background="#30ffffff"
+        android:drawableLeft="@drawable/persona_log"
+        android:drawablePadding="12dp"
+        android:gravity=""
+        android:hint="Correo Electrónico"
+        android:minHeight="50dp"
+        android:padding="10dp"
+        android:textColorHint="@color/common_google_signin_btn_text_light"
+        android:textStyle="bold"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.499"
+        tools:ignore="MissingConstraints">
+
+    </EditText>
+
+
+    <EditText
+        android:id="@+id/et_pass"
+        android:layout_width="391dp"
+        android:layout_height="wrap_content"
+        android:background="#30ffffff"
+        android:drawableLeft="@drawable/pass"
+        android:drawablePadding="12dp"
+        android:ems="10"
+        android:hint="Contraseña"
+        android:inputType="textPassword"
+        android:minHeight="50dp"
+        android:padding="10dp"
+        android:textColorHint="@color/common_google_signin_btn_text_light"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.587"
+        tools:ignore="MissingConstraints">
+
+    </EditText>
+
+    <Button
+        android:id="@+id/btn_registrar"
+        android:layout_width="156dp"
+        android:layout_height="47dp"
+        android:background="@drawable/botones_redondos"
+        android:padding="5dp"
+        android:text="Registrarme"
+        android:textColor="#fff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.691"
+        tools:ignore="MissingConstraints">
+
+
+    </Button>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

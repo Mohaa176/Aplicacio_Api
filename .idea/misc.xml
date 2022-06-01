@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mohamed/Desktop/AquiELPROJECTE/LoginFirebaseMail77/app/src/main/res/layout/activity_pantalla_espera.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/Mohamed/Desktop/AquiELPROJECTE/LoginFirebaseMail77/app/src/main/res/layout/activity_registrar.xml" value="0.22" />
+        <entry key="..\:/Users/Mohamed/Desktop/AquiELPROJECTE/LoginFirebaseMail77/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/drawable/botones_redondos.xml" value="0.3235" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/drawable/botones_resultado.xml" value="0.3235" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/layout/activity_homierdos.xml" value="0.379981884057971" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/layout/activity_main.xml" value="0.379981884057971" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/layout/casa.xml" value="0.379981884057971" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/layout/farmacia_api.xml" value="0.379981884057971" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/layout/item_farmacia.xml" value="0.2015625" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/layout/item_productes.xml" value="0.379981884057971" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/layout/menu_desplegable.xml" value="0.379981884057971" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/layout/nav_header_menu_desplegable.xml" value="0.379981884057971" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/menu/farmacia.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/menu/menu.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/menu/menu_desplegable.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/menu/menu_desplegable_drawer.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/tiger/Desktop/PROJECTE_BASE/Api_farmacia/app/src/main/res/menu/menu_options.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/drawable/botones_redondos.xml" value="0.239" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/drawable/botones_resultado.xml" value="0.239" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/drawable/customborder.xml" value="0.1" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/layout/activity_juego.xml" value="0.25" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/layout/activity_maps_debo.xml" value="0.1" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/layout/activity_pantalla_espera.xml" value="0.1" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/layout/activity_registrar.xml" value="0.1" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/layout/fragment_gallery.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/layout/fragment_home.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/layout/fragment_slideshow.xml" value="0.2015625" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/layout/item_productes.xml" value="0.4694244604316547" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/layout/menu_desplegable.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/layout/nav_header_menu_desplegable.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/layout/productes_api.xml" value="0.33" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/layout/resultado_juego.xml" value="0.25" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/menu/menu.xml" value="0.2015625" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/menu/menu_desplegable.xml" value="0.2" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/menu/menu_desplegable_drawer.xml" value="0.2015625" />
+        <entry key="..\:/Users/tiger/Desktop/ProjecteV1/LoginFirebaseMail77/app/src/main/res/menu/menu_options.xml" value="0.2015625" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/drawable/botones_redondos.xml" value="0.295" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/drawable/botones_resultado.xml" value="0.295" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/drawable/post_border_background.xml" value="0.1645" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/drawable/post_border_style.xml" value="0.1645" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/activity_adapter_farmacia.xml" value="0.1984375" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/activity_extras.xml" value="0.2" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/activity_home.xml" value="0.3269927536231884" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/activity_homierdos.xml" value="0.379981884057971" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/activity_juego.xml" value="0.3269927536231884" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/activity_main.xml" value="0.3269927536231884" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/activity_maps_debo.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/activity_pantalla_espera.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/content_menu_desplegable.xml" value="0.3269927536231884" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/farmacia_api.xml" value="0.1984375" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/fragment_gallery.xml" value="0.3269927536231884" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/fragment_home.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/item_farmacia.xml" value="0.5" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/item_productes.xml" value="0.46518375241779497" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/menu_desplegable.xml" value="0.2375" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/nav_header_menu_desplegable.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/productes_api.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/layout/resultado_juego.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/menu/farmacia.xml" value="0.1984375" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/menu/menu_desplegable.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/menu/menu_desplegable_drawer.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/tiger/Desktop/Projecte_Final_Juego_acabado/LoginFirebaseMail77/app/src/main/res/menu/menu_options.xml" value="0.20104166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.loginfirebasemail77.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.loginfirebasemail77.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.loginfirebasemail77.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <activity
+        android:id="@+id/maps_debo"
+        android:name="com.example.loginfirebasemail77.Maps_debo"
+        android:label="activity_maps_debo"
+        tools:layout="@layout/activity_maps_debo" />
+    <activity
+        android:id="@+id/productes_api"
+        android:name="com.example.loginfirebasemail77.productes_api"
+        android:label="productes_api"
+        tools:layout="@layout/productes_api" />
+    <activity
+        android:id="@+id/juego"
+        android:name="com.example.loginfirebasemail77.Juego"
+        android:label="activity_juego"
+        tools:layout="@layout/activity_juego" />
+    <activity
+        android:id="@+id/extras"
+        android:name="com.example.loginfirebasemail77.Extras"
+        android:label="activity_extras"
+        tools:layout="@layout/activity_extras" />
+    <activity
+        android:id="@+id/farmacia_api"
+        android:name="com.example.loginfirebasemail77.farmacia_api"
+        android:label="farmacia_api"
+        tools:layout="@layout/farmacia_api" />
+    <activity
+        android:id="@+id/homierdos"
+        android:name="com.example.loginfirebasemail77.homierdos"
+        android:label="activity_homierdos"
+        tools:layout="@layout/activity_homierdos" />
+    <activity
+        android:id="@+id/casa"
+        android:name="com.example.loginfirebasemail77.Casa"
+        android:label="casa"
+        tools:layout="@layout/casa" />
+</navigation>
