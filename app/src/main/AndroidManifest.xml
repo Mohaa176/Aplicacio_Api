@@ -18,9 +18,7 @@
         <activity
             android:name=".farmacia_api"
             android:exported="false" />
-        <activity
-            android:name=".Adapter_farmacia"
-            android:exported="false" />
+
         <activity
             android:name=".productes_api"
             android:exported="false" />
@@ -42,7 +40,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyB1uC4pXP1lQH6k3F5NPGDvFsd_YMsDb-Q" />
+            android:value="AIzaSyBJ1aZtV-xRyW5TEyVMm5Wc3JsUVgjdHyA" />
 
         <activity
             android:name=".Maps_debo"
